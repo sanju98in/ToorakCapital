@@ -25,6 +25,7 @@ This framework was built with the following:
 The pages package contains page classes
 - loginPage - login page objects and methods
 - ProductPage - product page objects and methods
+- APIGetRequest - A sample code to get the request and check the status
 
 ## Test Design
 
@@ -37,7 +38,7 @@ The pages package contains page classes
 -	Clone the repository into a folder
   
 ```sh
-git clone https://github.com/tomaslqa/LocasticQA.git
+git clone [https://github.com/sanju98in/ToorakCapital.git]
 ```
 - Go to Project root directory and install Dependencies (select Javasript):
 ```sh
